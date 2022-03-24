@@ -30,6 +30,7 @@ Before you start, go to Amazon Console and create the key pair in the desired re
 - make it more dynamic -> more variables
 - create outputs
 - create private network
+- automate the keys thing
 - do some work on tagging..
 
 ---
