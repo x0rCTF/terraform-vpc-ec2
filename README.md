@@ -21,8 +21,9 @@ This are reusable Terraform modules that can be applied across different regions
 
 ## Prerequisites:
 Before you start, go to Amazon Console and create the key pair in the desired region.
- - key pairs
-
+ - AWS Account
+ - Terraform CLI
+ - key pair
 ---
 
 ## Possible changes:
